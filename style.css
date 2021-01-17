@@ -1,0 +1,23 @@
+.container {
+    background-color: #272727;
+}
+
+.container h1 {
+    color: #fff;
+}
+
+.row {
+    margin: 10px;
+}
+
+.red {
+    color: #FF652F;
+}
+
+.blue {
+    color: #112CCC;
+}
+
+.green {
+    color: #14A76C;
+}
